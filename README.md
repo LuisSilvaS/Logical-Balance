@@ -8,5 +8,5 @@ Qual é a bolinha mais pesada? Você tem uma balança (daquelas antigas com 2 pr
 2) Escolha dois grupos para pesar e reserve o grupo extra;
 3) Coloque-os cada um em um lado da balança;
 4) Se os pesos forem iguais, descarte ambos os grupos;
-5) Senão, descarte o grupo mais pesado e o grupo extra;
+5) Senão, descarte o grupo mais leve e o grupo extra;
 6) A bola que restou é a mais pesada;
