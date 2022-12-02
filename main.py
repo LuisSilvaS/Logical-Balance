@@ -1,4 +1,3 @@
-
 #imports
 from max_peso import peso 
 import random 
@@ -21,9 +20,4 @@ print('2) Escolha dois grupos para pesar e reserve o grupo extra;')
 print('3) Coloque-os cada um em um lado da balança;')
 print('4) Se os pesos forem iguais, descarte ambos os grupos;')
 print('5) Senão, descarte o grupo mais pesado e o grupo extra;')
-print('6) Divida as bolas em 3 grupos;')
-print('7) Escolha dois grupos para pesar e reserve o grupo extra;')
-print('8) Coloque-os cada um em um lado da balança;')
-print('9) Se os pesos forem iguais descarte ambos os grupos;')
-print('10) Senão, descarte o grupo mais pesado e o grupo extra;')
-print('11) A bola que restou é a mais pesada;')
+print('6) A bola que restou é a mais pesada;')
